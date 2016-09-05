@@ -9,13 +9,13 @@ Wrapper class for FragmentDialog that can be used as progress bar to display mes
   compile 'com.preyea.utils:custom-dialog:0.1'<br>
   
 <h2>Instruction</h2>
-Include the dependency like this with minSdkVersion set to 16 in your gradle file
-defaultConfig {
-        minSdkVersion 16
-    }
-dependencies {
-    compile 'com.preyea.utils:custom-dialog:0.1'
-}
+Include the dependency like this with minSdkVersion set to 16 in your gradle file<br>
+defaultConfig {<br>
+        minSdkVersion 16<br>
+    }<br>
+dependencies {<br>
+    compile 'com.preyea.utils:custom-dialog:0.1'<br>
+}<br>
 
 <h2>Usage</h2>
 Call from activity like this to show the dialog,<br>
@@ -23,10 +23,10 @@ Call from activity like this to show the dialog,<br>
 And to hide the dialog,<br>
    CustomDialog.hidedialog();<br>
    <br>
-Here, <br>
+<p>Here, <br>
   ->The first argument is FragmentManager.<br>
   ->Second is the String to be shown.<br>
-  ->Third argument is for animated vector drawable that is shown along with the message. It accpets either one from the      given list:
+  ->Third argument is for animated vector drawable that is shown along with the message. It accpets either one from the      given list:</p>
   <ul>
       <li>CustomDialog.CONNECTING</li>
       <li>CustomDialog.LOADING</li>
