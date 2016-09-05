@@ -1,24 +1,14 @@
-# CustomDialog
+<h1>CustomDialog</h1>
 Wrapper class for FragmentDialog that can be used as progress bar to display message with some baked in animated vector drawables.
 
-#Requirments
+<h2>Requirements</h2>
   MinSDK : 16
   
-#Dependecy
+<h2>Dependency</h2>
   Gradle:
-  compile 'com.preyea.utils:custom-dialog:0.1'
+  compile 'com.preyea.utils:custom-dialog:0.1'<br>
   
-  Maven:
-  <dependency>
-  <groupId>com.preyea.utils</groupId>
-  <artifactId>custom-dialog</artifactId>
-  <version>0.1</version>
-  <type>pom</type>
-  </dependency>
-  
-
-  
-#Instruction
+<h2>Instruction</h2>
 Include the dependency like this with minSdkVersion set to 16 in your gradle file
 defaultConfig {
         minSdkVersion 16
@@ -27,22 +17,24 @@ dependencies {
     compile 'com.preyea.utils:custom-dialog:0.1'
 }
 
-#Usage
-Call from activity like this to show the dialog,
-  CustomDialog.showdialog(getFragmentManager(),"Loading...",CustomDialog.LOADING);
-And to hide the dialog,
-   CustomDialog.hidedialog();
-   
-Here, 
-  ->The first argument is FragmentManager.
-  ->Second is the String to be shown.
+<h2>Usage</h2>
+Call from activity like this to show the dialog,<br>
+  CustomDialog.showdialog(getFragmentManager(),"Loading...",CustomDialog.LOADING);<br>
+And to hide the dialog,<br>
+   CustomDialog.hidedialog();<br>
+   <br>
+Here, <br>
+  ->The first argument is FragmentManager.<br>
+  ->Second is the String to be shown.<br>
   ->Third argument is for animated vector drawable that is shown along with the message. It accpets either one from the      given list:
-      CustomDialog.CONNECTING
-      CustomDialog.LOADING
-      CustomDialog.DOWNLOADING
-      CustomDialog.UPLOADING
+  <ul>
+      <li>CustomDialog.CONNECTING</li>
+      <li>CustomDialog.LOADING</li>
+      <li>CustomDialog.DOWNLOADING</li>
+      <li>CustomDialog.UPLOADING</li>
+    </ul>
       
-#Demo
+<h2>Demo</h2>
 
   
   
