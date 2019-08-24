@@ -35,10 +35,10 @@ And to hide the dialog,<br>
     </ul>
       
 <h2>Demo</h2>
-<a href="http://gifyu.com/image/ohK"><img src="http://gifyu.com/images/connecting.gif" alt="connecting.gif" border="0"></a><br>
-<a href="http://gifyu.com/image/ohN"><img src="http://gifyu.com/images/downloading.gif" alt="downloading.gif" border="0"></a><br>
-<a href="http://gifyu.com/image/ohT"><img src="http://gifyu.com/images/loading0423c.gif" alt="loading0423c.gif" border="0"></a><br>
-<a href="http://gifyu.com/image/ohw"><img src="http://gifyu.com/images/uploading.gif" alt="uploading.gif" border="0"></a>
+<a href=https://github.com/PreyeaRegmi/Custom-Dialog/blob/master/Screenshots/connecting.gif"><img src="https://github.com/PreyeaRegmi/Custom-Dialog/blob/master/Screenshots/connecting.gif" alt="connecting.gif" border="0"></a><br>
+<a href="https://github.com/PreyeaRegmi/Custom-Dialog/blob/master/Screenshots/downloading.gif"><img src="https://github.com/PreyeaRegmi/Custom-Dialog/blob/master/Screenshots/downloading.gif" alt="downloading.gif" border="0"></a><br>
+<a href="https://github.com/PreyeaRegmi/Custom-Dialog/blob/master/Screenshots/loading0423c.gif"><img src="https://github.com/PreyeaRegmi/Custom-Dialog/blob/master/Screenshots/loading0423c.gif" alt="loading0423c.gif" border="0"></a><br>
+<a href="https://github.com/PreyeaRegmi/Custom-Dialog/blob/master/Screenshots/uploading.gif"><img src="https://github.com/PreyeaRegmi/Custom-Dialog/blob/master/Screenshots/uploading.gif" alt="uploading.gif" border="0"></a>
   
   
 
